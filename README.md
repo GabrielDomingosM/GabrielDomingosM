@@ -3,16 +3,11 @@
 
 ### Algumas coisas: 
 
-### 🌱 Eu estou aprendendo -> <br>
+### Eu estou aprendendo -> <br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="60" height="60"/> 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" width="60" height="60" /> <br>
-
-### 🎮 Jogos favoritos ->
-Brawhalla  <br> 
-God of War <br>
-BattleBit <br>
 
 <a href="https://www.imagensanimadas.com/cat-linhas-562.htm"><img src="https://www.imagensanimadas.com/data/media/562/linha-imagem-animada-0015.gif" border="0" alt="linha-imagem-animada-0015" /></a>
 
 ## Sobre mim:
-Sou Gabriel Domingos Marques, sou técnico em informática e pratico natação
+Sou Gabriel Domingos Marques, sou técnico em informática.
